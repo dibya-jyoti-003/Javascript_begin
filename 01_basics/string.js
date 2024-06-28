@@ -28,3 +28,4 @@ const url2 = url.replace('%20','-')
 
 const sentence  = "hello-everyone-how-are-you"
 //console.log(sentence.split('-'));
+//console.log("just for commit ")
