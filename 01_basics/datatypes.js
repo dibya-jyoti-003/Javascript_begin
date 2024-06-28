@@ -54,9 +54,31 @@ const myfunction = function(){
     console.log("Hello world")
 }
 
+/*
 console.log(typeof heros);
 console.log(typeof myObj);
 console.log(typeof myfunction);
 console.log(heros);
 console.log(myObj);
 console.log(myfunction);
+
+*/
+
+// Stack memory for primitive and heap for non-primitive 
+
+let user1 = {
+    name : "xyz",
+    email: "xyz@gmail.com",
+    age : 45
+}
+
+let user2 = user1
+/*
+console.log(user1);
+console.log(user2);
+
+user1.age=78
+
+console.log(user1);
+console.log(user2);
+*/
