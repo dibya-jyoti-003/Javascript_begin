@@ -1,2 +1,2 @@
 # Javascript_begin
-Code repo for beginning of javascript 
+Code repo for beginning of Javascript.  
